@@ -3,6 +3,9 @@ import argparse, contextlib, json, os, platform, sys
 """
 https://virtualenv.pypa.io/en/latest/userguide/#using-virtualenv-without-bin-python
 https://stackoverflow.com/questions/436198
+
+OS/X:
+    http://www.grivet-tools.com/blog/2014/launchdaemons-vs-launchagents/
 """
 
 def add(args):
